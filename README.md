@@ -1,10 +1,10 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio de Projeto DIO Bootcamp Fullstack Developer Santander 🚀
+### PORTUGUÊS
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Nesse projeto foi desenvolvido a página inicial do Instagram com HTML5 e CSS, mas eu dei um toque especial e fiz inspirado em Harry Potter.
+Dei o nome dessa rede social que existiria no mundo dos bruxinhos de Instawizard. Editei as imagens e criei o logo no Adobe Illustrator.
 
-### Os requisitos são:
+### ENGLISH
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+In this project I developed the Instagram landing page with HTML5 and CSS, but I got creative and did it inspired by Harry Potter.
+I chose the name Instawizard for this social media that would exist in their magical world. I edited the images and created the logo on Adobe Illustrator.
